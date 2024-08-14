@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://images.pexels.com/photos/585750/pexels-photo-585750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-image: url(https://cdn.shopify.com/s/files/1/0550/2933/4271/files/Gimoka_Lungo_Nespresso_Compatible_Pods_4.png?v=1723464707);
   font-family: sans-serif;
   padding: 20px;
   background-repeat: no-repeat;
@@ -67,10 +67,6 @@ h2 {
   width: 75%;
 }
 
-.price {
-  text-align: right;
-  width: 24%;
-}
 
 /* FOOTER */
 
