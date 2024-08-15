@@ -11,12 +11,12 @@ h1 {
   color:white;
    margin-top: 0;
   margin-bottom: 15px;
-  font-style: arial;
+  font-style: arial-black;
 }
 
 h2 {
   font-size: 35px;
-  font-style: arial;
+  font-style: arial-black;
   color:white;
 }
 
@@ -30,15 +30,15 @@ h1,
 h2,
 p {
   text-align: center;
-  font-style: arial;
+  font-style: arial-black;
 }
 
 .menu {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
-  font-size: 20px;
-  font-style: arial;
+  font-size: 19px;
+  font-style: arial-black;
   padding: 20px;
   max-width: 500px;
 }
@@ -51,7 +51,7 @@ img {
 hr {
   height: 2px;
   background-color: brown;
-  font-style: arial; 
+  font-style: arial-black; 
   border-color: brown;
 }
 
@@ -61,15 +61,15 @@ hr {
 
 h1,
 h2 {
-  font-family: sans-serif, serif;
+  font-family: arial-black, arial-black;
 }
 
 .item p {
   display: inline-block;
-  font-style: arial;
+  font-style: arial-black;
   margin-top: 5px;
   margin-bottom: 5px;
-  font-size: 20px;
+  font-size: 19px;
   color:white;
 }
 
@@ -84,7 +84,7 @@ h2 {
 
 footer {
   font-size: 12px;
-  font-style: arial;
+  font-style: arial-black;
   color:white;
 }
 
