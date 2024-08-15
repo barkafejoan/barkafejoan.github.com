@@ -22,7 +22,7 @@ h2 {
 .established {
   font-style: cursive;
   color:white;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 h1,
@@ -65,7 +65,7 @@ h2 {
   display: inline-block;
   margin-top: 5px;
   margin-bottom: 5px;
-  font-size: 20px;
+  font-size: 30px;
   font-family: cursive;
   color:white;
 }
@@ -73,6 +73,7 @@ h2 {
 .flavor,
 .dessert {
   text-align: left;
+  font-size: 30px; 
   width: 90%;
   font-family:cursive; 
 }
@@ -81,7 +82,7 @@ h2 {
 /* FOOTER */
 
 footer {
-  font-size: 12px;
+  font-size: 20px;
   font-style: cursive;
   color:white;
 }
