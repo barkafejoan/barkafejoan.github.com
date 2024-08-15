@@ -15,6 +15,7 @@ h1 {
 
 h2 {
   font-size: 35px;
+  font-style: cursive; 
   color:white;
 }
 
@@ -27,6 +28,7 @@ h2 {
 h1,
 h2,
 p {
+  font-style: cursive;
   text-align: center;
 }
 
@@ -36,6 +38,7 @@ p {
   margin-right: auto;
   padding: 20px;
   max-width: 500px;
+  font-style: cursive;
 }
 img {
   display: block;
@@ -79,6 +82,7 @@ h2 {
 
 footer {
   font-size: 12px;
+  font-style: cursive;
   color:white;
 }
 
