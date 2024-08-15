@@ -20,7 +20,8 @@ h2 {
 
 .established {
   font-style: arial-black;
-  color:white
+  color:white;
+  font-size: 12px;
 }
 
 h1,
@@ -75,7 +76,7 @@ h2 {
 /* FOOTER */
 
 footer {
-  font-size: 14px;
+  font-size: 12px;
   color:white;
 }
 
