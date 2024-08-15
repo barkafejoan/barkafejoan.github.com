@@ -19,7 +19,7 @@ h2 {
 }
 
 .established {
-  font-style: arial-black;
+  font-style: cursive;
   color:white;
   font-size: 15px;
 }
@@ -63,6 +63,7 @@ h2 {
   margin-top: 5px;
   margin-bottom: 5px;
   font-size: 20px;
+  font-family: cursive;
   color:white;
 }
 
@@ -70,6 +71,7 @@ h2 {
 .dessert {
   text-align: left;
   width: 90%;
+  font-family:cursive; 
 }
 
 
