@@ -39,6 +39,9 @@ ul {
   margin-rigth: auto;
   font-size: 18px;
   font-style: arial-black;
+  padding: 20px;
+  max-width: 500px;
+}  
 
   
 .menu {
