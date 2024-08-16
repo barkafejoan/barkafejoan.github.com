@@ -6,6 +6,16 @@ body {
   background-size: COVER;
 }
 
+    element.style {
+    margin: 0px;
+    height: 100%;
+    background-color: rgb(14, 14, 14);
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+  }
 h1 {
   font-size: 39px;
   color:white;
