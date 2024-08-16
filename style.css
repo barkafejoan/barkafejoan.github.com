@@ -33,6 +33,14 @@ p {
   font-style: arial-black;
 }
 
+ul {
+  width 80%;
+  margin-left: auto;
+  margin-rigth: auto;
+  font-size: 18px;
+  font-style: arial-black;
+
+  
 .menu {
   width: 80%;
   margin-left: auto;
