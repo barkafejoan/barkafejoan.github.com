@@ -1,14 +1,12 @@
-
-    element.style {
-    margin: 0px;
-    height: 100%;
-    background-color: rgb(14, 14, 14);
-}
-user agent stylesheet
 body {
-    display: block;
-    margin: 8px;
-  }
+  background-image: url('https://images7.alphacoders.com/422/422958.jpg');
+  font-family: sans-serif;
+  padding: 20px;
+  background-repeat: no-repeat;
+  background-size: 50% 50%;
+}
+
+
 h1 {
   font-size: 39px;
   color:white;
