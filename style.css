@@ -1,5 +1,5 @@
 body {
-  background-image: <img src="https://img.freepik.com/fotos-premium/diseno-fondo-volar-granos-cafe-tostado_36845-39.jpg" width="626" height="473"
+  background-image: url(https://img.freepik.com/fotos-premium/diseno-fondo-volar-granos-cafe-tostado_36845-39.jpg);
   font-family: sans-serif;
   padding: 20px;
   background-repeat: no-repeat;
